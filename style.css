@@ -129,7 +129,7 @@ input[type=text], select, textarea {
       border: 2px solid #0275d8;
   }
   .bts-alert{
-      width: 95%;
+      width: 100%;
   }
   /*footer*/
   footer{
